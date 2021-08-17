@@ -1,60 +1,44 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "What's for Dinner",
+    subtitle: "Third Party API Application",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "An application that will allow the user to get ideas for meals by searching for recipes either by category or keyword.",
+    image: "../gifs/wfd.gif",
+    link: "https://nicopetelo.github.io/whats-for-dinner/",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "The Goodvice Blog",
+    subtitle: "Interactive Full-Stack Application",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+      "A small scale app, enabling users to get advice from their community on everyday things and allowing them to quickly search by categories or keywords.",
+    image: "../gifs/tgvb.gif",
+    link: "https://the-goodvice-blog.herokuapp.com/",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Budget Tracker",
+    subtitle: "Progresive Web Application (PWA)",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+      "This is a budget tracker application that allows offline access and functionality. The user is able to add expenses and deposits to their budget with or without internet connection.",
+    image: "../gifs/bt.gif",
+    link: "https://rojos-budget-tracker.herokuapp.com/",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Your City Weather App",
+    subtitle: "Third Party API",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
-  },
-];
-
-export const testimonials = [
-  {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
-  },
-  {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
+      "This is a weather application where users are able to search a city and the app will look through a third party API for that specific city and return results incluiding humidity, wind speed, and UV index",
+    image: "../gifs/ycw.gif",
+    link: "https://galiciarogelio.github.io/your-city-weather/",
   },
 ];
 
 export const skills = [
   "JavaScript",
   "React",
-  "Next.js",
+  "MySQL",
   "Node",
   "GraphQL",
-  "Material UI",
+  "MongoDB",
+  "Express",
 ];

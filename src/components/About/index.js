@@ -9,14 +9,12 @@ function About() {
             <br className=" lg:inline-block" />Full stack web developer
           </h1>
           <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+            Hello, welcome to my page! My name is Rogelio, I was born in mexico city and raised in San Francisco, California. I started this journey of coming a web developer because it is amazing to see how code works and what it does. I am a fluent English and Spanish speaker and I am open to work with you!
           </p>
           <div className="flex justify-center">
             <a
               href="#contact"
-              className="inline-flex text-white bg-red-900 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
+              className="inline-flex text-white bg-red-900 border-0 py-2 px-6 focus:outline-none hover:bg-red-600 rounded text-lg">
               Contact Me
             </a>
             <a
