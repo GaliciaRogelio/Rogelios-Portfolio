@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Rogelios-Portfolio/static/css/main.a8687a5b.chunk.css",
+    "main.js": "/Rogelios-Portfolio/static/js/main.75985e4d.chunk.js",
+    "main.js.map": "/Rogelios-Portfolio/static/js/main.75985e4d.chunk.js.map",
+    "runtime-main.js": "/Rogelios-Portfolio/static/js/runtime-main.a5e83b5a.js",
+    "runtime-main.js.map": "/Rogelios-Portfolio/static/js/runtime-main.a5e83b5a.js.map",
+    "static/js/2.7a623ab5.chunk.js": "/Rogelios-Portfolio/static/js/2.7a623ab5.chunk.js",
+    "static/js/2.7a623ab5.chunk.js.map": "/Rogelios-Portfolio/static/js/2.7a623ab5.chunk.js.map",
+    "static/js/3.5477219c.chunk.js": "/Rogelios-Portfolio/static/js/3.5477219c.chunk.js",
+    "static/js/3.5477219c.chunk.js.map": "/Rogelios-Portfolio/static/js/3.5477219c.chunk.js.map",
+    "index.html": "/Rogelios-Portfolio/index.html",
+    "static/css/main.a8687a5b.chunk.css.map": "/Rogelios-Portfolio/static/css/main.a8687a5b.chunk.css.map",
+    "static/js/2.7a623ab5.chunk.js.LICENSE.txt": "/Rogelios-Portfolio/static/js/2.7a623ab5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5e83b5a.js",
+    "static/js/2.7a623ab5.chunk.js",
+    "static/css/main.a8687a5b.chunk.css",
+    "static/js/main.75985e4d.chunk.js"
+  ]
+}
