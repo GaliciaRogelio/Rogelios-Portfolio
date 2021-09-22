@@ -1,3 +1,5 @@
+import React from "react";
+import ProfileImg from "../../assets/portfolio-img.jpg";
 
 function About() {
     return (
@@ -9,7 +11,7 @@ function About() {
             <br className=" lg:inline-block" />Full stack web developer
           </h1>
           <p className="mb-8 leading-relaxed">
-            Hello, welcome to my page! My name is Rogelio, I was born in mexico city and raised in San Francisco, California. I started this journey of coming a web developer because it is amazing to see how code works and what it does. I am a fluent English and Spanish speaker and I am open to work with you!
+          Full stack web developer with a coding certificate from UC Berkeley. Born in Mexico City and raised in San Francisco, CA. Currently based in Chicago, IL.
           </p>
           <div className="flex justify-center">
             <a
@@ -28,7 +30,7 @@ function About() {
           <img
             className="object-cover object-center rounded"
             alt="hero"
-            src="./portfolio-img.jpg"
+            src={ProfileImg}
           />
         </div>
       </div>
