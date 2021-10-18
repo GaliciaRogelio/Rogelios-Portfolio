@@ -1,5 +1,6 @@
 import React from "react";
 import ProfileImg from "../../assets/portfolio-img.jpg";
+import pdf from "../../assets/resume.pdf"
 
 function About() {
     return (
@@ -20,9 +21,9 @@ function About() {
               Contact Me
             </a>
             <a
-              href="#projects"
+              href={pdf}
               className="ml-4 inline-flex text-gray-400 bg-gray-700 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
-              Projects
+              Resume
             </a>
           </div>
         </div>
