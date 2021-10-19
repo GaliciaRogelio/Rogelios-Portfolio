@@ -1,8 +1,6 @@
 import React from "react";
-
 import { CodeIcon } from "@heroicons/react/solid";
 import { projects } from "../Data";
-
 function Projects() {
   return (
     <section id="projects" className="text-gray-400 bg-gray-900 body-font">
@@ -22,8 +20,7 @@ function Projects() {
                 <img
                   alt="gallery"
                   className="absolute inset-0 w-full h-full object-cover object-center"
-                  key={project.title}
-                  src={project.image}
+                  src={require(`../../assets/${project.image}.png`).default}
                 />
                 <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-800 bg-gray-900 opacity-0 hover:opacity-100">
                   <h2 className="tracking-widest text-sm title-font font-medium text-red-900 mb-1">
