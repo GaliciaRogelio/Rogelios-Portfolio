@@ -1,22 +1,29 @@
 {
   "files": {
-    "main.css": "/Rogelios-Portfolio/static/css/main.a8687a5b.chunk.css",
-    "main.js": "/Rogelios-Portfolio/static/js/main.75985e4d.chunk.js",
-    "main.js.map": "/Rogelios-Portfolio/static/js/main.75985e4d.chunk.js.map",
-    "runtime-main.js": "/Rogelios-Portfolio/static/js/runtime-main.a5e83b5a.js",
-    "runtime-main.js.map": "/Rogelios-Portfolio/static/js/runtime-main.a5e83b5a.js.map",
+    "main.css": "/Rogelios-Portfolio/static/css/main.2417089a.chunk.css",
+    "main.js": "/Rogelios-Portfolio/static/js/main.42fc26a6.chunk.js",
+    "main.js.map": "/Rogelios-Portfolio/static/js/main.42fc26a6.chunk.js.map",
+    "runtime-main.js": "/Rogelios-Portfolio/static/js/runtime-main.f5ef36d7.js",
+    "runtime-main.js.map": "/Rogelios-Portfolio/static/js/runtime-main.f5ef36d7.js.map",
     "static/js/2.7a623ab5.chunk.js": "/Rogelios-Portfolio/static/js/2.7a623ab5.chunk.js",
     "static/js/2.7a623ab5.chunk.js.map": "/Rogelios-Portfolio/static/js/2.7a623ab5.chunk.js.map",
-    "static/js/3.5477219c.chunk.js": "/Rogelios-Portfolio/static/js/3.5477219c.chunk.js",
-    "static/js/3.5477219c.chunk.js.map": "/Rogelios-Portfolio/static/js/3.5477219c.chunk.js.map",
+    "static/js/3.d19d4f60.chunk.js": "/Rogelios-Portfolio/static/js/3.d19d4f60.chunk.js",
+    "static/js/3.d19d4f60.chunk.js.map": "/Rogelios-Portfolio/static/js/3.d19d4f60.chunk.js.map",
     "index.html": "/Rogelios-Portfolio/index.html",
-    "static/css/main.a8687a5b.chunk.css.map": "/Rogelios-Portfolio/static/css/main.a8687a5b.chunk.css.map",
-    "static/js/2.7a623ab5.chunk.js.LICENSE.txt": "/Rogelios-Portfolio/static/js/2.7a623ab5.chunk.js.LICENSE.txt"
+    "static/css/main.2417089a.chunk.css.map": "/Rogelios-Portfolio/static/css/main.2417089a.chunk.css.map",
+    "static/js/2.7a623ab5.chunk.js.LICENSE.txt": "/Rogelios-Portfolio/static/js/2.7a623ab5.chunk.js.LICENSE.txt",
+    "static/media/bt.gif": "/Rogelios-Portfolio/static/media/bt.6ffce01e.gif",
+    "static/media/portfolio-img.d7703f0e.jpg": "/Rogelios-Portfolio/static/media/portfolio-img.d7703f0e.jpg",
+    "static/media/resume.fd378258.pdf": "/Rogelios-Portfolio/static/media/resume.fd378258.pdf",
+    "static/media/shop-shop.gif": "/Rogelios-Portfolio/static/media/shop-shop.3c6dfb6a.gif",
+    "static/media/tgvb.gif": "/Rogelios-Portfolio/static/media/tgvb.a21838cf.gif",
+    "static/media/wfd.gif": "/Rogelios-Portfolio/static/media/wfd.4e480184.gif",
+    "static/media/ycw.gif": "/Rogelios-Portfolio/static/media/ycw.27e24894.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.a5e83b5a.js",
+    "static/js/runtime-main.f5ef36d7.js",
     "static/js/2.7a623ab5.chunk.js",
-    "static/css/main.a8687a5b.chunk.css",
-    "static/js/main.75985e4d.chunk.js"
+    "static/css/main.2417089a.chunk.css",
+    "static/js/main.42fc26a6.chunk.js"
   ]
 }
