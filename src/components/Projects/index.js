@@ -13,14 +13,12 @@ function Projects() {
         </div>
         <div className="flex flex-wrap -m-4">
           {projects.map((project) => (
-            <div
-              className="sm:w-1/2 w-100 p-4"
-            >
+            <div className="sm:w-1/2 w-100 p-4">
               <div className="flex relative">
                 <img
                   alt="gallery"
                   className="absolute inset-0 w-full h-full object-cover object-center"
-                  src={require(`../../assets/${project.image}.png`).default}
+                  src={require(`../../assets/gifs/${project.image}.gif`).default}
                 />
                 <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-800 bg-gray-900 opacity-0 hover:opacity-100">
                   <h2 className="tracking-widest text-sm title-font font-medium text-red-900 mb-1">
@@ -30,9 +28,18 @@ function Projects() {
                     {project.title}
                   </h1>
                   <p className="leading-relaxed">{project.description}</p>
-                  <button className="bg-transparent hover:bg-red-900 text-white-700 font-semibold hover:text-white py-2 px-4 border border-red-900 hover:border-transparent rounded-full" type="button" 
-                  >GitHub</button>
-                  <button className="bg-transparent hover:bg-red-900 text-white-700 font-semibold hover:text-white py-2 px-4 border border-red-900 hover:border-transparent rounded-full"href={project.link}>Live</button>
+                  <a
+                    className="bg-transparent hover:bg-red-900 text-white-700 font-semibold inset-auto hover:text-white py-2 px-4 border border-red-900 hover:border-transparent rounded-full"
+                    href={project.github}
+                  >
+                    GitHub
+                  </a>
+                  <a
+                    className="bg-transparent hover:bg-red-900 text-white-700 font-semibold hover:text-white py-2 px-4 border border-red-900 hover:border-transparent rounded-full"
+                    href={project.link}
+                  >
+                    Live page
+                  </a>
                 </div>
               </div>
             </div>

@@ -5,7 +5,7 @@ export const projects = [
     subtitle: "Third Party API Application",
     description:
       "An application that will allow the user to get ideas for meals by searching for recipes either by category or keyword.",
-    image: "whats-for-dinner",
+    image: "wfd",
     link: "https://nicopetelo.github.io/whats-for-dinner/",
     github: "https://github.com/GaliciaRogelio/whats-for-dinner"
   },
@@ -14,7 +14,7 @@ export const projects = [
     subtitle: "Interactive Full-Stack Application",
     description:
       "A small scale app, enabling users to get advice from their community on everyday things and allowing them to quickly search by categories or keywords.",
-    image: "the-goodVice-blog",
+    image: "tgvb",
     link: "https://the-goodvice-blog.herokuapp.com/",
     github: "https://github.com/GaliciaRogelio/the-goodvice-blog"
   },
@@ -23,7 +23,7 @@ export const projects = [
     subtitle: "Progresive Web Application (PWA)",
     description:
       "This is a budget tracker application that allows offline access and functionality. The user is able to add expenses and deposits to their budget with or without internet connection.",
-    image: "budget-tracker",
+    image: "bt",
     link: "https://rojos-budget-tracker.herokuapp.com/",
     github: "https://github.com/GaliciaRogelio/my-budget-tracker"
   },
