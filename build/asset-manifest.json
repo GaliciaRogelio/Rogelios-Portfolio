@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Rogelios-Portfolio/static/css/main.2417089a.chunk.css",
-    "main.js": "/Rogelios-Portfolio/static/js/main.42fc26a6.chunk.js",
-    "main.js.map": "/Rogelios-Portfolio/static/js/main.42fc26a6.chunk.js.map",
-    "runtime-main.js": "/Rogelios-Portfolio/static/js/runtime-main.f5ef36d7.js",
-    "runtime-main.js.map": "/Rogelios-Portfolio/static/js/runtime-main.f5ef36d7.js.map",
-    "static/js/2.7a623ab5.chunk.js": "/Rogelios-Portfolio/static/js/2.7a623ab5.chunk.js",
-    "static/js/2.7a623ab5.chunk.js.map": "/Rogelios-Portfolio/static/js/2.7a623ab5.chunk.js.map",
-    "static/js/3.d19d4f60.chunk.js": "/Rogelios-Portfolio/static/js/3.d19d4f60.chunk.js",
-    "static/js/3.d19d4f60.chunk.js.map": "/Rogelios-Portfolio/static/js/3.d19d4f60.chunk.js.map",
+    "main.css": "/Rogelios-Portfolio/static/css/main.68073fc1.chunk.css",
+    "main.js": "/Rogelios-Portfolio/static/js/main.369bd9fc.chunk.js",
+    "main.js.map": "/Rogelios-Portfolio/static/js/main.369bd9fc.chunk.js.map",
+    "runtime-main.js": "/Rogelios-Portfolio/static/js/runtime-main.b7ebc11c.js",
+    "runtime-main.js.map": "/Rogelios-Portfolio/static/js/runtime-main.b7ebc11c.js.map",
+    "static/js/2.611b5ce5.chunk.js": "/Rogelios-Portfolio/static/js/2.611b5ce5.chunk.js",
+    "static/js/2.611b5ce5.chunk.js.map": "/Rogelios-Portfolio/static/js/2.611b5ce5.chunk.js.map",
+    "static/js/3.06eba91d.chunk.js": "/Rogelios-Portfolio/static/js/3.06eba91d.chunk.js",
+    "static/js/3.06eba91d.chunk.js.map": "/Rogelios-Portfolio/static/js/3.06eba91d.chunk.js.map",
     "index.html": "/Rogelios-Portfolio/index.html",
-    "static/css/main.2417089a.chunk.css.map": "/Rogelios-Portfolio/static/css/main.2417089a.chunk.css.map",
-    "static/js/2.7a623ab5.chunk.js.LICENSE.txt": "/Rogelios-Portfolio/static/js/2.7a623ab5.chunk.js.LICENSE.txt",
+    "static/css/main.68073fc1.chunk.css.map": "/Rogelios-Portfolio/static/css/main.68073fc1.chunk.css.map",
+    "static/js/2.611b5ce5.chunk.js.LICENSE.txt": "/Rogelios-Portfolio/static/js/2.611b5ce5.chunk.js.LICENSE.txt",
     "static/media/bt.gif": "/Rogelios-Portfolio/static/media/bt.6ffce01e.gif",
     "static/media/portfolio-img.d7703f0e.jpg": "/Rogelios-Portfolio/static/media/portfolio-img.d7703f0e.jpg",
     "static/media/resume.fd378258.pdf": "/Rogelios-Portfolio/static/media/resume.fd378258.pdf",
@@ -21,9 +21,9 @@
     "static/media/ycw.gif": "/Rogelios-Portfolio/static/media/ycw.27e24894.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.f5ef36d7.js",
-    "static/js/2.7a623ab5.chunk.js",
-    "static/css/main.2417089a.chunk.css",
-    "static/js/main.42fc26a6.chunk.js"
+    "static/js/runtime-main.b7ebc11c.js",
+    "static/js/2.611b5ce5.chunk.js",
+    "static/css/main.68073fc1.chunk.css",
+    "static/js/main.369bd9fc.chunk.js"
   ]
 }
